@@ -1,22 +1,17 @@
 languages:
-  - C#
-  - Kotlin
-  - Dart
-  - Typescript
+  - Shell
+  - Python
+  - C
+  - C++
   - HTML5
   - CSS3 / Sass
-  - SQL
-  - GraphQL
+  - MySQL
+  - Latex
+  - Markdown
 
-frameworks:
-  - ASP.Net
-  - WPF
-  - Android
-  - Flutter
-  - Express
-  - Apollo
-  - React
-  - Jekyll
+cloud:
+  - Amazon AWS
+  - Azure
 
 tools:
   - Git / GitHub
@@ -28,3 +23,4 @@ tools:
   - Linux
   - Adobe Photoshop
   - Adobe Illustrator
+  - Tor Browser
