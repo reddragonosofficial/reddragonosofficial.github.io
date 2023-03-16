@@ -2,18 +2,18 @@ resume:
   name: resume
   url: https://docs.google.com/document/d/1IUDXlrmKFvhkr0-P2bP3NlsNMESeCzCvJoOiXRYIRz4/export?format=pdf
 
-zero-based:
-  name: "[0]"
+instagram:
+  name: ig
   url: https://zero-based.github.io
 
 github:
   name: gh
-  url: https://github.com/YoussefRaafatNasry
+  url: https://github.com/gsvprharsha
 
 linkedin:
   name: in
-  url: https://www.linkedin.com/in/YoussefRaafatNasry
+  url: https://www.linkedin.com/in/prharsha-g
 
 mail:
   name: ma
-  url: mailto:YoussefRaafatNasry@gmail.com
+  url: mailto:gsvprharsha@gmail.com
